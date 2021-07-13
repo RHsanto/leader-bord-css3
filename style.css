@@ -217,6 +217,11 @@ font-size: 14.69px;
       width:90%;
     }
   
+    nav ul li{
+      margin-left: -10px;
+    }
+ 
+    
     .section-title{
      text-align: center;
     }
